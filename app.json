@@ -1,0 +1,6 @@
+{
+  "name": "Webhook Chatbot",
+  "description": "Get Order Shipment date using Dialogflow and Webhook",
+  "repository": "https://github.com/Fahad199/Dialogflow_Webhook_Nodejs.git",
+  "keywords": ["api.ai", "dialogflow", "natural language"]
+}
